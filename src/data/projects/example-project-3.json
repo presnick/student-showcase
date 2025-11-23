@@ -1,0 +1,12 @@
+{
+  "studentName": "Chen Wei",
+  "projectTitle": "Basketball Game Simulator",
+  "description": "A Monte Carlo simulation analyzing basketball game outcomes based on player statistics. Includes visualizations of win probabilities and performance predictions.",
+  "projectType": ["Simulation", "Data Visualization"],
+  "projectUrl": "https://example.com/basketball-sim",
+  "githubUrl": "https://github.com/example/basketball-sim",
+  "projectImage": "/images/placeholder.svg",
+  "tags": ["Python", "Simulation", "Statistics", "Jupyter"],
+  "studentPhoto": "/images/placeholder.svg",
+  "videoUrl": "https://vimeo.com/123456789"
+}
